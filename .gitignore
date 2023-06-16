@@ -4,6 +4,7 @@
 # Python virtual environment folder
 venv/
 fork/
+modules/
 
 # Other common Python files and folders to ignore
 *.pyc
