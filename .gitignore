@@ -1,0 +1,10 @@
+# IntelliJ IDEA folder
+.idea/
+
+# Python virtual environment folder
+venv/
+fork/
+
+# Other common Python files and folders to ignore
+*.pyc
+__pycache__/
