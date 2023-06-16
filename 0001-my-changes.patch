@@ -1,0 +1,29 @@
+From 6585c0c6d10673d6cb92da45212510ef1b525bbb Mon Sep 17 00:00:00 2001
+From: lakshmi tummala <lakshmitummala@lakshmis-MacBook-Air.local>
+Date: Sat, 17 Jun 2023 03:56:46 +0530
+Subject: [PATCH] my changes
+
+---
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..4a8be60
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,10 @@
++# IntelliJ IDEA folder
++.idea/
++
++# Python virtual environment folder
++venv/
++fork/
++
++# Other common Python files and folders to ignore
++*.pyc
++__pycache__/
+-- 
+2.39.2 (Apple Git-143)
+
